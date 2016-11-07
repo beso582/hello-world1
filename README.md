@@ -8,3 +8,4 @@ I need to implement an upload functionality to load an image into an offline PDF
 Greetings,
 
 Johannes
+
